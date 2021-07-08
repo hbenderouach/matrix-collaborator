@@ -1,5 +1,4 @@
-CREATE database matrixdb;
-Use matrixdb;
+
 DROP TABLE IF EXISTS interview;
 DROP TABLE IF EXISTS project;
 DROP TABLE IF EXISTS collaborator_project;
